@@ -1,0 +1,39 @@
+body { 
+ background: linear-gradient(135deg, #403eb6, #15008a, #014d80);
+ font-family: Arial, sana-serif;
+ color: #f1dddd;
+ padding: 0;
+
+}
+
+h1 { 
+    color: #3d360b;
+    text-align: center;
+    text-shadow: 0 0 10px #0e080c;
+    font-family:Tahoma, sana-serif;
+
+}
+
+
+p { 
+    text-align: center;
+    color: #ffffff;
+
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: 15px auto;
+    text-align: center;
+    
+  }
+
+footer { 
+    text-align: center;
+    background-color: #b30086;
+    color: #4d293a;
+    padding: 10px;
+
+
+}
